@@ -1,9 +1,6 @@
-## NETFLIX CLONE
+## Create-Read-Update-Delete Program
 
-![image](https://user-images.githubusercontent.com/56839275/92617759-a6bdf980-f28d-11ea-9b8d-1abbccd7037f.png)
-![aaa2](https://user-images.githubusercontent.com/56839275/92617418-429b3580-f28d-11ea-9766-4b931bda0352.PNG)
+This program is a simple transaction program that can process Create data, Read data, Update data, and Delete data. The data used in this program is shoe data (Brand, Category, Color, and Size).
 
-## This is an Netflix Clone created using React JS as Front end , Firebase for Deployment and the backend purpose.
+### This is a transactional (CRUD) program using Python as programming language.
 
-## Link : 
-https://netflix-clone-4c022.web.app
